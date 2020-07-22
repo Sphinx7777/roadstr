@@ -1,6 +1,5 @@
 
-import '../../styles/main.scss'
-import Layout from 'src/components/Layout';
+import Layout from 'src/Components/Layout';
 
 const Main = () => {
 	return (
